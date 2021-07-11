@@ -1,4 +1,4 @@
-### Why are you here? 👋
+### Why are you here? 🤔
 
 - 🔭 I’m currently working @ github.com/AtlasNetworkdev
 - 🌱 I’m currently learning C++

@@ -1,6 +1,4 @@
 ### Why are you here? 🤔
+![Overall stats](https://github-readme-stats.vercel.app/api?username=maploop&theme=cobalt&show_icons=true&count_private=true)
 
-- 🔭 I’m currently working @ github.com/AtlasNetworkdev
-- 🌱 I’m currently learning C++
-- 📫 How to reach me: DM me on discord Maploop#0001
-- 😄 Pronouns: He, justh he.
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maploop&theme=cobalt&show_icons=true&count_private=true)

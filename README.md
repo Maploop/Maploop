@@ -1,8 +1,9 @@
-Hi 👋 My name is Maploop
-========================
+Hey I'm [Maploop](https://github.com/Maploop), a professional Java / C# Developer with a lot of experience in different types of workspaces.
+I'm also familiar with Java Script and Python.
+You can find more information and ways to contact me below:
 
 * 2+ Years of experience with Java
-* 1+ Year of experience with C# and Java Script (back-end)
+* 1+ Year of experience with C# and Java Script
 * I'm currently working on the [Atlas Network](https://www.the-atlas.net)
 * Open to commisions, contact Maploop#1444 on Discord
 
@@ -20,3 +21,6 @@ Hi 👋 My name is Maploop
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/Maploop#1444" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Maploop" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/maploop_v" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+
+• Contact by email: [maploop.val@gmail.com]

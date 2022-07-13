@@ -4,7 +4,7 @@ You can find more information and ways to contact me below:
 
 * 2+ Years of experience with Java
 * 1+ Year of experience with C# and Java Script
-* I'm currently working on the [Atlas Network](https://www.the-atlas.net)
+* I'm currently working on the [Atlas Network](https://www.the-atlas.net) as a Lead Developer
 * Open to commisions, contact Maploop#1444 on Discord
 
 ### Skills

@@ -1,10 +1,10 @@
 Hi 👋 My name is Maploop
 ========================
 
-been working on minecraft plugins for as long as i can remember
-
-* 🌍  I'm based in Iran
+* 2+ Years of experience with Java
+* 1+ Year of experience with C# and Java Script (back-end)
 * I'm currently working on the [Atlas Network](https://www.the-atlas.net)
+* Open to commisions, contact Maploop#1444 on Discord
 
 ### Skills
 

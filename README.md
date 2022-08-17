@@ -1,4 +1,4 @@
-Hey! I'm Maploop, a professional Java / C# Programmer with a lot of experience in different types of workspaces.
+Hey! I'm Maploop, I'm mostly known for programming in Java, JavaScript, C# and Python.
 
 Here's a quick intro:
 ![bg1](https://user-images.githubusercontent.com/76199586/184936438-f902fc89-f2a7-41f3-96c1-0ba62bd439d5.jpg)

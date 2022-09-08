@@ -95,6 +95,11 @@ Cleria is a 2D Adventure Game which is still incomplete, features that are in th
 - Entities with AI
 - NPC dialogues
 - Inventory system, items and collectibles
+
+![image](https://user-images.githubusercontent.com/76199586/189075083-c19b248b-aa02-41fa-8ec7-3242187f2051.png)
+![image](https://user-images.githubusercontent.com/76199586/189075170-cc67d4c4-932c-4221-821d-ccc4e7c9a72e.png)
+![image](https://user-images.githubusercontent.com/76199586/189075234-2dd4bd21-75ff-47b5-9451-e3ffb43ce57c.png)
+![image](https://user-images.githubusercontent.com/76199586/189075284-97e3fd2e-685c-4d0c-a11f-246aead2c328.png)
  
 Click <a href='https://github.com/Maploop/Cleria'>here</a> to view the project on github!
 

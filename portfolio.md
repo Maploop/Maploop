@@ -123,3 +123,4 @@ __**[Email](maploop.val@gmail.com)**__
 - [Twitter](https://twitter.com/maploop_v)
 - [Instagram](https://www.instagram.com/maploop.val)
 - [GitHub](https://github.com/Maploop)
+- [Discord](https://discord.gg/user/Maploop#1444)

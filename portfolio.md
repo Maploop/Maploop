@@ -118,7 +118,7 @@ Click <a href='https://github.com/Maploop/Siefbot'>here</a> to view the project 
 My inbox is always open to anyone who needs a question answered or just wants to say hi!
 I'll try my best to get back to you!
 
-__**[Email](maploop.val@gmail.com)**__
+__**maploop.val@gmail.com**__
 ### Other Socials:
 - [Twitter](https://twitter.com/maploop_v)
 - [Instagram](https://www.instagram.com/maploop.val)

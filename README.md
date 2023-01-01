@@ -8,4 +8,4 @@ Check out [My Discord Server](https://discord.gg/xSPuekddJ6)
 Check out [My Linktree](https://linktr.ee/maploop)
 And My Email: maploop.val@gmail.com
 
-![Overall stats](https://github-readme-stats.vercel.app/api?username=plun1331&theme=cobalt&show_icons=true&count_private=true)
+![Overall stats](https://github-readme-stats.vercel.app/api?username=maploop&theme=cobalt&show_icons=true&count_private=true)

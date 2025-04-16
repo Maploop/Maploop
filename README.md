@@ -1,6 +1,7 @@
 # Introduction
 Hey! I'm Maploop, I'm mostly known for programming in Java, JavaScript, C++ and Python.
 For more information about who I am and what I do, check out my [portfolio](https://maploop.github.io/).
+
 Check out my other links [here](https://maploop.github.io/links?a=github).
 
 ### Contact

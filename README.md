@@ -6,7 +6,6 @@ Check out my other links [here](https://maploop.github.io/links?a=github).
 ### Contact
 Check out [Atlas Network](https://discord.gg/paper)
 Check out [My Discord Server](https://discord.gg/xSPuekddJ6)
-Check out [My guns.lol](https://guns.lol/maploop)
 And My Email: `maploop.val@gmail.com`
 
 ![Overall stats](https://github-readme-stats.vercel.app/api?username=maploop&theme=cobalt&show_icons=true&count_private=true)

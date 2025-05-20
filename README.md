@@ -1,12 +1,9 @@
-# Introduction
-Hey! I'm Maploop, I'm mostly known for programming in Java, JavaScript, C++ and Python.
-For more information about who I am and what I do, check out my [portfolio](https://maploop.github.io/).
 
-Check out my other links [here](https://maploop.github.io/links?a=github).
+---
 
-### Contact
-Check out [Atlas Network](https://discord.gg/paper)
-Check out [My Discord Server](https://discord.gg/xSPuekddJ6)
-And My Email: `maploop.val@gmail.com`
+Hey! I'm [Maploop](https://github.com/Maploop), an avid Java / C++ programmer with tons of experience working on different projects. Although most of my projects are based in Java, I am also familiar with JS, Python, Rust and C#.
 
-![Overall stats](https://github-readme-stats.vercel.app/api?username=maploop&theme=cobalt&show_icons=true&count_private=true)
+I'm a lead developer at [Atlas Network](https://discord.gg/paper) (9k+ members), where I manage and code alongside a development team of 8 - We have over 150,000 unique players log in and our codebase is over 1,000,000 LOC. I am also a former developer at [TrexMine](https://trexmine.com) which is the largest Iranian Minecraft server to date.
+
+💖 [Discord](https://discord.gg/paper)
+🔗 [Website](https://maploop.github.io)

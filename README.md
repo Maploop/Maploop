@@ -10,3 +10,5 @@ I'm also passionate about game development and game engines, which is why I have
 💖 [Discord](https://discord.gg/paper)
 
 🔗 [Website](https://maploop.github.io)
+
+---
